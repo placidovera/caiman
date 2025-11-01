@@ -1,0 +1,28 @@
+/* Elimina márgenes del documento */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 300px;
+}
+
+/* Contenedor del logo */
+.logo-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 100vh;
+
+  background-color: black;
+  background-image: url('/imagenes/logo.png');
+  background-size: contain;   /* o 'cover' si querés que cubra toda la pantalla */
+  background-repeat: no-repeat;
+  background-position: center;
+
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  box-sizing: border-box;
+}

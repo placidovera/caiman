@@ -3,6 +3,7 @@ import './App.css'
 import BannerPrincipal from './componetes/BannerPrincipal/BannerPrincipal'
 import LeftRightWrapper from './componetes/LefRightWrapper/LeftRightWrapper'
 import Left from './componetes/Left/Left'
+import Logo from './componetes/Logo/Logo'
 import ContainerFoto from './componetes/NavBar/ContainerFoto/ContainerFoto'
 import NavBar from './componetes/NavBar/Navbar'
 import Right from './componetes/Right/Right'
@@ -15,8 +16,11 @@ function App() {
 <NavBar/>
 
 <BannerPrincipal/>
+
 <LeftRightWrapper/>
+
 <ContainerFoto/>
+<Logo/>
     </>
   )
 }

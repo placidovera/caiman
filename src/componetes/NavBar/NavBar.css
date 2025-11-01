@@ -9,7 +9,7 @@
 
 /* NAVBAR PRINCIPAL */
 .custom-navbar {
-  background-image: url("/imagenes/fondo.jpg");
+  background-image: url("/imagenes/fondo.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -17,6 +17,7 @@
   padding: 1rem 2rem;
   border-bottom: 3px solid #b80f0a;
   box-shadow: 0 2px 10px #b80f0a33;
+  height: 150px;
 }
 
 /* NOMBRE DE LA BANDA */
