@@ -1,11 +1,3 @@
-/* Elimina márgenes del documento */
-html, body {
-  margin: 0;
-  padding: 0;
-  height: 300px;
-}
-
-/* Contenedor del logo */
 .logo-container {
   position: relative;
   display: flex;
@@ -13,11 +5,11 @@ html, body {
   align-items: center;
 
   width: 100vw;
-  height: 100vh;
+  min-height: 60vh;
 
   background-color: black;
   background-image: url('/imagenes/logo.png');
-  background-size: contain;   /* o 'cover' si querés que cubra toda la pantalla */
+  background-size: 80%;   /* 👈 MÁS GRANDE */
   background-repeat: no-repeat;
   background-position: center;
 

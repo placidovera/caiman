@@ -6,13 +6,7 @@ const Left = () => {
     <div className="left-content">
       <h2>Caimán - Rock de Paraná</h2>
       <p>
-        Hace 7 años que Caimán empezó su viaje por Paraná, llevando su
-        rock potente y auténtico a cada escenario. Sus riffs eléctricos
-        y letras que cuentan historias de vida, rebeldía y pasión
-        conquistaron rápidamente a la audiencia. Con los años, la banda
-        se expandió a los alrededores, llevando su energía a localidades
-        cercanas y sumando cada vez más seguidores que sienten el
-        espíritu crudo y eléctrico de Caimán en cada show.
+    Caimán es un trío de la ciudad de Paraná, que nace en el mes de marzo del 2019, conformado por Alejandro Emili en guitarra y voz, Víctor Volonté bajo y voces y Beltrán Ibarrola, Batería. Su música recorre desde el rock clásico de los 70, hasta influencias marcadas propias del rock actual, como el Stoner y el rock alternativo. Caimán llevó su música a distintos escenarios en la ciudad de Paraná, Cerrito, Gral Ramirez y Santa Fe. Hoy la banda se encuentra girando, presentando sus canciones y con el objetivo de efectivizar a finales del 2025 su nuevo EP con 4 nuevas canciones.
       </p>
     </div>
   );
