@@ -7,11 +7,12 @@
   width: 100vw;
   min-height: 60vh;
 
-  background-color: black;
- background-image: url('imagenes/logo.png');
-  background-size: 80%;   /* 👈 MÁS GRANDE */
-  background-repeat: no-repeat;
-  background-position: center;
+background-color: black;
+background-image: url('/logo.png');
+background-size: 80%;
+background-repeat: no-repeat;
+background-position: center;
+
 
   margin: 0;
   padding: 0;
